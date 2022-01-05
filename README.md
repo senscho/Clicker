@@ -67,3 +67,6 @@ Stream Deck Integration
   	1. Use double quotation for both the script and argument
 
   An example profile is located under Stream Deck Example directory.
+  Windows version of MS Word profile is originally created by [Reddit User richdayuk].
+
+  [Reddit User richdayuk]:https://www.reddit.com/r/streamdeckprofiles/comments/gs4ow0/microsoft_word_profile/
